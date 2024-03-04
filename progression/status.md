@@ -11,5 +11,6 @@ description: The current status of cool.dev
 | Twitter     | 100 - follower                                                                        |                      |
 | Home Page   | Under development                                                                     |                      |
 | Slack       | Developers only                                                                       |                      |
+| Telegram    |⚠️ <mark style="color:red;background-color:orange;">**No Offical Telegram Yet**</mark> |                      |
 | Discord     | ⚠️ <mark style="color:red;background-color:orange;">**No Offical Discord Yet**</mark> |                      |
 | Token       | ⚠️ <mark style="color:red;background-color:orange;">**Not Generated Yet**</mark>      |                      |
