@@ -22,3 +22,7 @@
 
 * [🟢 Status](progression/status.md)
 * [⤴️ Roadmap](progression/roadmap.md)
+
+## SUPPORT
+
+* [❓ FAQ](support/faq.md)
