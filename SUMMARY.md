@@ -16,6 +16,7 @@
 
 * [🧊 Cool](concepts/cool.md)
 * [🔺 Trinity](concepts/trinity.md)
+* [🎮 DX](concepts/dx.md)
 
 ## Progression
 
