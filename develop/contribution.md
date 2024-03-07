@@ -8,6 +8,5 @@ if you_have_time:
         contribute()
 if you_have_money:
     invest()
-else:
-    refer()
+refer()
 ```
