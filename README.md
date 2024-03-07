@@ -1,4 +1,12 @@
+---
+description: What is cool.dev
+---
+
 # Overview
+
+## TL;DR
+
+Dev to Earn
 
 ## What is "Develop"
 
@@ -7,11 +15,9 @@
 
 ## Develop what?
 
-Develop what users want
+MatchPi
 
-## How
 
-Developers, users, and investors form a [trinity](concepts/trinity.md)
 
 
 

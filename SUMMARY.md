@@ -2,19 +2,20 @@
 
 * [Overview](README.md)
 
+## Develop
+
+* [Code](develop/coding.md)
+* [Contribute](develop/contribution.md)
+
+## Earn
+
+* [How](earn/reward.md)
+* [Refer](earn/refer.md)
+
 ## Concepts
 
 * [🧊 Cool](concepts/cool.md)
 * [🔺 Trinity](concepts/trinity.md)
-
-## Develop
-
-* [Coding](develop/coding.md)
-* [Contribution](develop/contribution.md)
-
-## Tokenomics
-
-* [Reward](tokenomics/reward.md)
 
 ## Progression
 

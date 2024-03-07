@@ -1,15 +1,13 @@
-# Contribution
+# Contribute
 
 ```python
-if you have time
-    if you are a programmer
-        code
-    else 
-        contribute
-else 
-    if you have money
-        invest
-    else
-        refer
-    
+if you_have_time:
+    if you_know_programming:
+        write_code()
+    else:
+        contribute()
+if you_have_money:
+    invest()
+else:
+    refer()
 ```

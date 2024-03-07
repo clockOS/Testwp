@@ -1,4 +1,8 @@
-# Reward
+---
+description: How to earn?
+---
+
+# How
 
 ##
 
