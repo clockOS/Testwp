@@ -10,8 +10,8 @@ Dev to Earn
 
 ## What is "Develop"
 
-* Special: **Coding**
-* General: **Contributing**
+* Special: **Code**
+* General: **Contribute, Invest, Refer**
 
 ## Develop what?
 
