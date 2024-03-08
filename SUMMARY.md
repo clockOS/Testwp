@@ -10,7 +10,8 @@
 ## Earn
 
 * [How](earn/reward.md)
-* [Refer](earn/refer.md)
+* [🤝 Refer](earn/refer.md)
+* [🪙 Token](earn/token.md)
 
 ## Concepts
 

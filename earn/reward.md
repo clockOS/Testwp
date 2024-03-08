@@ -4,44 +4,45 @@ description: How to earn?
 
 # How
 
-<mark style="color:red;">if</mark> you\_have\_time: \
-&#x20;    <mark style="color:red;">if</mark> you\_know\_programming:\
-&#x20;          write\_code() \
-&#x20;    <mark style="color:red;">else</mark>: contribute() \
-<mark style="color:red;">if</mark> you\_have\_money: \
-&#x20;    invest() \
-[refer](refer.md)()
+
 
 ## Comparison
 
 ### Conventional
 
-1. <mark style="color:green;">**Learning Programming / Skills**</mark>
-2. <mark style="color:green;">**Finding Projects to Practice**</mark>
-3. **Writing a Resume**
-4. **Applying for Jobs**
-5. **Interviewing**
-6. <mark style="color:green;">**Coding Interviews**</mark>
-7. <mark style="color:green;">**Internship**</mark>
-8. <mark style="color:orange;">**Moving:**</mark> Possibly relocating to be closer to the workplace.
-9. <mark style="color:orange;">**Commuting**</mark>
-10. <mark style="color:green;">**Working**</mark>
-11. <mark style="color:green;">**KPIs:**</mark> <mark style="color:green;"></mark> Spending time on activities aimed at fulfilling specific Key Performance Indicators (KPIs), which might not directly contribute to real productivity or innovation.
-12. <mark style="color:green;">**Seeking Promotions:**</mark>  Navigating the corporate ladder through achieving KPIs, undergoing performance reviews, and possibly engaging in office politics to secure promotions and advancements.
-13. **Unemployment**
-14. **Updating Resume**
-15. **Reapplying for Jobs**
-16. **Interviewing Again**
+⓪ <mark style="color:green;">**Learning Programming / Skills**</mark>
 
-&#x20;  ...
+① <mark style="color:green;">**Finding Projects to Practice**</mark>
 
-### cool.dev
+② **Writing a Resume**
 
-**0. Connect the wallet**
+③ **Applying for Jobs**
 
-**1. **<mark style="color:green;">**Develop**</mark>
+④ **Interviewing**
 
-**2. Get the tokens**
+⑤ <mark style="color:green;">**Coding Interviews**</mark>
+
+⑥ <mark style="color:green;">**Internship**</mark>
+
+⑦ <mark style="color:orange;">**Moving:**</mark> Possibly relocating to be closer to the workplace.
+
+⑧ <mark style="color:orange;">**Commuting**</mark>
+
+⑨ <mark style="color:green;">**Working**</mark>
+
+ⓐ <mark style="color:green;">**KPIs:**</mark> <mark style="color:green;"></mark> Spending time on activities aimed at fulfilling specific Key Performance Indicators (KPIs), which might not directly contribute to real productivity or innovation.
+
+ⓑ <mark style="color:green;">**Seeking Promotions:**</mark>  Navigating the corporate ladder through achieving KPIs, undergoing performance reviews, and possibly engaging in office politics to secure promotions and advancements.
+
+ⓒ **Unemployment**
+
+ⓓ **Updating Resume**
+
+ⓔ **Reapplying for Jobs**
+
+ⓕ **Interviewing Again**
+
+#### ♾️
 
 ## Principles
 
@@ -51,13 +52,26 @@ Your contribution is like water in the desert; every drop matters.&#x20;
 
 Even if you just correct a typo, you'll be rewarded.
 
-Unlike in conventional way, in the step learning program(1), finding a project to practice(2) and coding interview(6) you will not get rewarded.
+Unlike in conventional way, in the step learning program⓪, finding a project to practice① and coding interview⑤ you will not get rewarded.
 
 ### Equal Pay for Equal Work
 
-No interview(5), regardless the gender, age, race, education background , disability etc.
+No interview④, regardless the gender, age, race, education background , disability etc.
 
-And no internship(6)
+And no internship⑥
 
-### Fully remote
+### Fully Remote
 
+### Even no Online Meeting
+
+### Freedom from Unemployment
+
+
+
+### cool.dev
+
+[0️⃣](https://yaytext.com/emoji/keycaps/#keycap-0-cb0ad47f) **Join**
+
+[1️⃣](https://yaytext.com/emoji/keycaps/#keycap-1-1dcc52e4) <mark style="color:green;">**Develop**</mark>
+
+[🔟](https://yaytext.com/emoji/keycaps/#keycap-10-40e94d63) **Earn**

@@ -8,6 +8,14 @@ description: What is "cool" ?
 
 Code while wearing a sunglasses 😎&#x20;
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="188"><figcaption><p> </p></figcaption></figure>
+
+</div>
+
+
+
 ## General
 
 * Intent: Know what to develop
