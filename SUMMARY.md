@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [TL;DR](README.md)
 
 ## Develop
 
@@ -12,6 +12,8 @@
 * [How](earn/reward.md)
 * [🤝 Refer](earn/refer.md)
 * [🪙 Token](earn/token.md)
+* [💰 Invest](earn/invest.md)
+* [Reward](earn/reward-1.md)
 
 ## Concepts
 
