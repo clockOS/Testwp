@@ -4,8 +4,6 @@ description: What is "cool" ?
 
 # 🧊 Cool
 
-## Special
-
 Code while wearing a sunglasses 😎&#x20;
 
 <div align="left">
@@ -14,12 +12,8 @@ Code while wearing a sunglasses 😎&#x20;
 
 </div>
 
-
-
-## General
-
-* Intent: Know what to develop
-* Guts:&#x20;
-* New: Develop something new, don't reinvent wheels
-*
+* <mark style="color:blue;">**C**</mark>razy:
+* <mark style="color:blue;">**O**</mark>riented: Know what to develop
+* <mark style="color:blue;">**O**</mark>riginal: Develop something new
+* <mark style="color:blue;">**L**</mark>iberate:&#x20;
 
