@@ -1,8 +1,6 @@
----
-description: What is "Cool" ?
----
-
 # 🧊 Cool
+
+## What is "Cool" ?
 
 Code while wearing a sunglasses 😎&#x20;
 

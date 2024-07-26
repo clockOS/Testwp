@@ -4,8 +4,6 @@ description: How to earn?
 
 # How
 
-
-
 ## Comparison
 
 ### Conventional
@@ -56,22 +54,18 @@ Unlike in conventional way, in the step learning program⓪, finding a project t
 
 ### Equal Pay for Equal Work
 
-No interview④, regardless the gender, age, race, education background , disability etc.
+No interview④, regardless the gender, age, race, education background, disability etc.
 
 And no internship⑥
 
 ### Fully Remote
 
-### Even no Online Meeting
-
 ### Freedom from Unemployment
-
-
 
 ### cool.dev
 
-[0️⃣](https://yaytext.com/emoji/keycaps/#keycap-0-cb0ad47f) **Join**
+0️⃣ **Join**
 
-[1️⃣](https://yaytext.com/emoji/keycaps/#keycap-1-1dcc52e4) <mark style="color:green;">**Develop**</mark>
+1️⃣ <mark style="color:green;">**Develop**</mark>
 
-[🔟](https://yaytext.com/emoji/keycaps/#keycap-10-40e94d63) **Earn**
+🔟 **Earn**

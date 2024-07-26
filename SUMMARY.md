@@ -2,19 +2,23 @@
 
 * [TL;DR](README.md)
 
-## Concepts
+## About
 
-* [🧊 Cool](concepts/cool.md)
-* [🔺 Trinity](concepts/trinity.md)
-* [🎮 DX](concepts/dx.md)
+* [🧊 Cool](about/cool.md)
+* [🔺 Trinity](about/trinity.md)
+* [🎮 DX](about/dx.md)
 
 ## Earn
 
 * [Reward](earn/reward/README.md)
   * [🪙 Token](earn/reward/token.md)
-* [How](earn/reward-1.md)
-* [🤝 Refer](earn/refer.md)
-* [💰 Invest](earn/invest.md)
+* [How](earn/reward-1/README.md)
+  * [🤝 Refer](earn/reward-1/refer.md)
+  * [💰 Invest](earn/reward-1/invest.md)
+
+***
+
+* [GOVERNANCE](governance.md)
 
 ## Progression
 

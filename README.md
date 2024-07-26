@@ -15,5 +15,5 @@ Dev to Earn
 &#x20;       write\_code() \
 &#x20;   <mark style="color:red;">else</mark>: contribute() \
 <mark style="color:red;">if</mark> you\_have\_money: \
-&#x20;   [invest](earn/invest.md)() \
-[refer](earn/refer.md)()
+&#x20;   [invest](earn/reward-1/invest.md)() \
+[refer](earn/reward-1/refer.md)()
