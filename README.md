@@ -14,14 +14,8 @@ Dev to Earn
 
 <mark style="color:red;">if</mark> you\_have\_time: \
 &#x20;   <mark style="color:red;">if</mark> you\_know\_programming:\
-&#x20;       [write\_code](broken-reference)() \
-&#x20;   <mark style="color:red;">else</mark>: [contribute](broken-reference)() \
+&#x20;       write\_code() \
+&#x20;   <mark style="color:red;">else</mark>: contribute() \
 <mark style="color:red;">if</mark> you\_have\_money: \
 &#x20;   [invest](earn/invest.md)() \
 [refer](earn/refer.md)()
-
-
-
-
-
-##

@@ -10,11 +10,11 @@
 
 ## Earn
 
-* [How](earn/reward.md)
+* [Reward](earn/reward/README.md)
+  * [🪙 Token](earn/reward/token.md)
+* [How](earn/reward-1.md)
 * [🤝 Refer](earn/refer.md)
-* [🪙 Token](earn/token.md)
 * [💰 Invest](earn/invest.md)
-* [Reward](earn/reward-1.md)
 
 ## Progression
 

@@ -12,8 +12,8 @@ Code while wearing a sunglasses 😎&#x20;
 
 </div>
 
-* <mark style="color:blue;">**C**</mark>razy:&#x20;
-* <mark style="color:blue;">**O**</mark>riented: Know what to develop
-* <mark style="color:blue;">**O**</mark>riginal: Develop something new
-* <mark style="color:blue;">**L**</mark>iberate:&#x20;
+* <mark style="color:blue;">**C**</mark>razy enough to think they can change the world
+* <mark style="color:blue;">**O**</mark>riented to know what to develop
+* <mark style="color:blue;">**O**</mark>riginal in creating something new
+* <mark style="color:blue;">**L**</mark>iberate from conventional constraints&#x20;
 
