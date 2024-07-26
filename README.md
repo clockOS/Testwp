@@ -4,9 +4,13 @@ description: What is cool.dev
 
 # TL;DR
 
+Community of Cool Developers
+
+## What do community members do?
+
 Dev to Earn
 
-## What is "Develop"
+## What is "Develop"?
 
 <mark style="color:red;">if</mark> you\_have\_time: \
 &#x20;   <mark style="color:red;">if</mark> you\_know\_programming:\

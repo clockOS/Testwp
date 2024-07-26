@@ -15,5 +15,3 @@ Use what they develop
 ## Investor == Developer&#x20;
 
 Earn the most while developing
-
-##
