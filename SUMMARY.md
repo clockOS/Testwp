@@ -2,10 +2,11 @@
 
 * [TL;DR](README.md)
 
-## Develop
+## Concepts
 
-* [Code](develop/coding.md)
-* [Contribute](develop/contribution.md)
+* [🧊 Cool](concepts/cool.md)
+* [🔺 Trinity](concepts/trinity.md)
+* [🎮 DX](concepts/dx.md)
 
 ## Earn
 
@@ -14,12 +15,6 @@
 * [🪙 Token](earn/token.md)
 * [💰 Invest](earn/invest.md)
 * [Reward](earn/reward-1.md)
-
-## Concepts
-
-* [🧊 Cool](concepts/cool.md)
-* [🔺 Trinity](concepts/trinity.md)
-* [🎮 DX](concepts/dx.md)
 
 ## Progression
 
