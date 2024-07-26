@@ -1,8 +1,6 @@
----
-description: What is cool.dev
----
-
 # TL;DR
+
+## What is cool.dev
 
 Community of Cool Developers
 
