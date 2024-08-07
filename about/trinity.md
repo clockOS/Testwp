@@ -1,4 +1,8 @@
-# 🔺 Trinity
+---
+icon: triangle
+---
+
+# Trinity
 
 Developers, users, and investors form a trinity.
 

@@ -6,7 +6,7 @@ Community of Cool Developers
 
 ## Mission
 
-<mark style="color:purple;">**Developers' interests first.**</mark>
+<mark style="color:purple;">**Developers'**</mark> [<mark style="color:purple;">**interests**</mark>](readme/mission.md#developers-interests) <mark style="color:purple;">**first.**</mark>
 
 ## What do community members do together?
 

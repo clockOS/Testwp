@@ -1,3 +1,7 @@
+---
+icon: bullseye-arrow
+---
+
 # Mission
 
 <mark style="color:purple;">**Developers' interests first.**</mark>

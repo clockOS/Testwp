@@ -1,7 +1,8 @@
 ---
 description: Developer Experience
+icon: gamepad-modern
 ---
 
-# 🎮 DX
+# DX
 
 A good developer experience should be like playing an addictive online game.

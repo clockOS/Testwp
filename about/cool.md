@@ -1,4 +1,8 @@
-# 🧊 Cool
+---
+icon: sunglasses
+---
+
+# Cool
 
 ## What is a "Cool" Developer?
 

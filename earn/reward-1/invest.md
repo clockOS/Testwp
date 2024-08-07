@@ -1,7 +1,0 @@
-# 💰 Invest
-
-## Public
-
-## DEX
-
-##

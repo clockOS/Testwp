@@ -1,8 +1,9 @@
 ---
 description: Three Laws of cool.dev's Governance
+icon: gavel
 ---
 
-# 3️⃣ Three Laws
+# Three Laws
 
 ## **First Law**
 
