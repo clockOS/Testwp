@@ -14,7 +14,7 @@
 * [How](earn/reward/README.md)
   * [Refer](earn/reward/refer.md)
   * [Invest](earn/reward/invest.md)
-* [Reward](earn/reward-1.md)
+* [Rewards](earn/rewards.md)
 
 ## Tokenomics
 
