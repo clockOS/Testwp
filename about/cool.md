@@ -1,8 +1,8 @@
 # 🧊 Cool
 
-## What is "Cool" ?
+## What is a "Cool" Developer?
 
-Code while wearing a sunglasses 😎&#x20;
+A developer with sunglasses 😎&#x20;
 
 <div align="left">
 

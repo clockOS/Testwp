@@ -1,8 +1,6 @@
----
-description: Developers, users, and investors form a trinity.
----
-
 # 🔺 Trinity
+
+Developers, users, and investors form a trinity.
 
 ## Developer == User
 

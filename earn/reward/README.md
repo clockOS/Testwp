@@ -1,12 +1,3 @@
----
-description: There are three type of rewards
----
+# 🍞 Reward
 
-# Reward
-
-Token
-
-Experience
-
-Vote
-
+No one can diminish your accomplishments.

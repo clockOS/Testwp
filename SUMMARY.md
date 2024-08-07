@@ -1,6 +1,7 @@
 # Table of contents
 
 * [TL;DR](README.md)
+  * [Mission](readme/mission.md)
 
 ## About
 
@@ -10,15 +11,16 @@
 
 ## Earn
 
-* [Reward](earn/reward/README.md)
+* [🍞 Reward](earn/reward/README.md)
   * [🪙 Token](earn/reward/token.md)
-* [How](earn/reward-1/README.md)
+* [💡 How](earn/reward-1/README.md)
   * [🤝 Refer](earn/reward-1/refer.md)
   * [💰 Invest](earn/reward-1/invest.md)
 
-***
+## Governance
 
-* [GOVERNANCE](governance.md)
+* [3️⃣ Three Laws](governance/three-laws.md)
+* [📔 What](governance/what.md)
 
 ## Progression
 
@@ -27,4 +29,5 @@
 
 ## SUPPORT
 
+* [🔗 Links](support/links.md)
 * [❓ FAQ](support/faq.md)

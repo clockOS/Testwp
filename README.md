@@ -4,16 +4,24 @@
 
 Community of Cool Developers
 
-## What do community members do?
+## Mission
 
-Dev to Earn
+<mark style="color:purple;">**Developers' interests first.**</mark>
+
+## What do community members do together?
+
+Dev to [Earn](broken-reference)
 
 ## What is "Develop"?
 
-<mark style="color:red;">if</mark> you\_have\_time: \
-&#x20;   <mark style="color:red;">if</mark> you\_know\_programming:\
-&#x20;       write\_code() \
-&#x20;   <mark style="color:red;">else</mark>: contribute() \
-<mark style="color:red;">if</mark> you\_have\_money: \
-&#x20;   [invest](earn/reward-1/invest.md)() \
-[refer](earn/reward-1/refer.md)()
+```python
+if you_have_time: 
+    if you_know_programming:
+        write_code() 
+    else: 
+        contribute() 
+if you_have_money: 
+    invest() 
+refer()
+```
+

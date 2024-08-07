@@ -2,7 +2,7 @@
 description: How to earn?
 ---
 
-# How
+# 💡 How
 
 ## Comparison
 
