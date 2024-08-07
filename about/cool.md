@@ -6,11 +6,11 @@ icon: sunglasses
 
 ## What is a "Cool" Developer?
 
-A developer with sunglasses 😎&#x20;
+A developer with sunglasses [🕶️](https://emojipedia.org/sunglasses)&#x20;
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p> </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="188"><figcaption><p> </p></figcaption></figure>
 
 </div>
 
