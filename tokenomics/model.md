@@ -4,6 +4,6 @@ icon: arrows-spin
 
 # Model
 
-**Mint:** when developers contribute&#x20;
+**Mint** when developers contribute&#x20;
 
-**Burn:** when users consume services
+**Burn** when users consume services

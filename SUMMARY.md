@@ -11,9 +11,9 @@
 
 ## Earn
 
-* [How](earn/reward/README.md)
-  * [Refer](earn/reward/refer.md)
-  * [Invest](earn/reward/invest.md)
+* [How](earn/reward.md)
+* [Refer](earn/refer.md)
+* [Invest](earn/invest.md)
 * [Rewards](earn/rewards.md)
 
 ## Tokenomics
@@ -23,8 +23,9 @@
 
 ## Governance
 
-* [Three Laws](governance/three-laws.md)
+* [Principle](governance/principle.md)
 * [Decisions](governance/decisions.md)
+* [Rules](governance/rules.md)
 
 ## Progression
 

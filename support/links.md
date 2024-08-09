@@ -4,11 +4,13 @@ icon: link
 
 # Links
 
+## GitHub
 
+[https://github.com/cooldev1024](https://github.com/cooldev1024)
 
 ## X
 
-https://x.com/cooldev1024
+[https://x.com/cooldev1024](https://x.com/cooldev1024)
 
 ## Slack
 

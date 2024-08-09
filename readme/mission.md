@@ -4,7 +4,7 @@ icon: bullseye-arrow
 
 # Mission
 
-<mark style="color:purple;">**Developers' interests first.**</mark>
+**Developers' interests first.**
 
 ## Developer's Interests
 

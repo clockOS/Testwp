@@ -12,12 +12,12 @@ There are three types of rewards:
 
 ### Token
 
-Financial reward, exchangeable
+Financial reward, tradable
 
-### Vote
+### Votes
 
-The vote is used for governance, not exchangeable
+The vote is used for governance, non-tradable
 
 ### Experience
 
-Related to the developer level, which determines the privileges of the developer
+Related to the developer level, which determines the privileges of the developer, non-tradable

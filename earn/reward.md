@@ -1,6 +1,6 @@
 ---
-description: How to earn?
 icon: lightbulb-on
+description: How to earn?
 ---
 
 # How
@@ -45,15 +45,15 @@ icon: lightbulb-on
 
 ### cool.dev
 
-0️⃣ **Join**
+**0️. Join**
 
-1️⃣ <mark style="color:green;">**Develop**</mark>
+**1️. **<mark style="color:green;">**Develop**</mark>
 
-🔟 **Earn**
+**10. Earn**
 
 ## Principles
 
-### Valuing Every Contribution
+### Value Every Contribution
 
 Your contribution is like water in the desert; every drop matters.&#x20;
 

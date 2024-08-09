@@ -1,6 +1,6 @@
 ---
-description: The current status of cool.dev
 icon: chart-simple
+description: The current status of cool.dev
 ---
 
 # Status
@@ -9,7 +9,7 @@ icon: chart-simple
 | ---------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | White Paper      | 🟢 V 1.0                                                                               | https://docs.cool.dev                                           |
 | GitHub           | < 100 Stars                                                                            |                                                                 |
-| X                | < 100 Followers                                                                        | [https://x.com/cooldev102](https://x.com/cooldev1024)           |
+| X                | < 100 Followers                                                                        | https://x.com/cooldev1024                                       |
 | Home Page        | Under development                                                                      |                                                                 |
 | Slack            | Developers only                                                                        | [https://cooldev1024.slack.com](https://cooldev1024.slack.com/) |
 | Telegram Channel | < 100 Subscriber                                                                       | [https://t.me/cooldev1024](https://t.me/cooldev1024)            |
